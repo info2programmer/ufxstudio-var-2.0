@@ -1,0 +1,40 @@
+/**************** Color ****************/
+.mainMenu > ul > li.active > a,.mainMenu > ul > li > a:focus,.mainMenu > ul > li:hover > a,
+.logo h2 a:hover,.mainMenu > ul > li > a:focus,.postContent h3 a:hover,.postDate a:hover,
+.fourZeroArea h1,.featuresList li:before,.teamDetails h5,.blogAuthor a,.blogCategory li i,
+.widget ul li a:after,.widget ul li a:hover,.blogSidbarPost h2 a:hover,.sidePostCont a:hover,
+.blogCategory li a:hover,.postPage .quotation:before,.authorDesc h6,.commentMeta a,
+.hasChild:hover:after,.hasChild.active:after,.testimonialFirstHome .quotation:before,
+.calendarWidget table tr td.active,.evMeta p i,.featureContent h3 a:hover,.serviceContent h4 a:hover,
+.mainMenu > ul > li > a:hover,.metaRight i,.metaLeft a:hover,.metaLeft i,div.pp_default .pp_close,
+.folioHover a.detailsLink:hover,.mixurBtn ul li:hover,.footerContent a,.copyRight p a:hover,
+.dropSub li a:focus, .dropSub li a:hover,.folioHover2 a.detailsLink:hover,.breadLink li:hover a,
+.potCategory a,.portfolioDetails h3 a:hover,.folioHover2 a.detailsLink2:hover,a:focus,
+.dropMenu > li > a:focus, .dropMenu > li > a:hover {
+    color: #00abef;
+}
+/**************** Background ****************/
+.redCaption,.serviceIcon,.folioBtn li:hover,.singleFacts p:before,.folioHover a.prePhoto,
+.folioHover2 a.prePhoto2,.defaultButton:hover,.defaultPagi li a:hover,.widget form button,
+.widget.tags a.active, .widget.tags a:hover,.commentForm form button:hover,.slick-prev.slick-arrow:hover,.slick-next.slick-arrow:hover,
+.calendarButton a,.contactForm form button:hover,.switch a,.switch,.menuButton.active span, .menuButton:hover span,
+.defaultPagi li.active a,.myAccordion .panel-title a,.myAccordion .panel-title a.collapsed:hover,
+.folioBtn li.active,.folioHover2 a.prePhoto,.postDate,.folioSubTittle,.viewBtn,.subsForm form button,
+.sliderBtn:hover i{
+    background: #00abef;
+}
+/***************** Border Color *****************/
+.defaultButton:hover,.commentForm form button:hover,.contactForm form button:hover{
+    border-color: #00abef;
+}
+/* New Home */
+.singleTabContent h2,.tabNavs li a span,
+.testimonialFirstHome .quotation:after {
+    color: #00abef;
+}
+.tabNavs li.active {
+    border-color: #00abef;
+}
+.allFeatureBtn{
+    background: #00abef;
+}

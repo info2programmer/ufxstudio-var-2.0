@@ -1,0 +1,336 @@
+/******************* Testimonial Area **********************/
+.testiArea{
+    background: #404040;
+}
+.singleTesti h2 {
+    color: #fff;
+}
+.testiArea:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/dark.png") no-repeat scroll center center;
+}
+/******************* Feature Area **********************/
+.featureArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.featureContent h3 a {
+    color: #fff;
+}
+.featureArea:after {
+    left: 2px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+/******************* Portfolio Area **********************/
+.portfolioArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.mixurBtn ul li {
+    color: #fff;
+}
+/******************* Fun Fact Area **********************/
+.funFactArea {
+    background: #404040 none repeat scroll 0 0;
+}
+.funFactArea::after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/dark.png") no-repeat scroll center center;
+}
+.singleFacts h1 {
+    color: #fff;
+}
+
+/******************* Blog Area **********************/
+.blogArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.blogArea .commonTittle{
+    color: #fff;
+}
+.blogArea:after {
+    left: 4px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.postDate a {
+    background: #fff;
+    color: #404040;
+}
+.postContent h3 a {
+    color: #fff;
+}
+.postContent {
+    background: #404040;
+}
+/******************* Subscribe Area **********************/
+.subscribeArea {
+    background: #404040;
+}
+
+.subscribeArea:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/dark.png") no-repeat scroll center center;
+}
+.subsForm h4 {
+    color: #fff;
+}
+/******************* Copyright Area **********************/
+.copyRight {
+    background: #404040 none repeat scroll 0 0;
+}
+/******************* 404 page **********************/
+.fourZeroArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.fourZeroArea:after {
+    left: -5px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.fourZeroArea h2 {
+    color: #fff;
+}
+/******************* About Page **********************/
+.aboutArea {
+    background: #404040;
+}
+.myAccordion .panel-title a.collapsed {
+    background: #fff;
+}
+.myAccordion .panel-title a {
+    color: #404040;
+}
+.myAccordion .panel-title a:after {
+    background: url("../../images/about/minusDark.png") no-repeat scroll 0 0;
+}
+.myAccordion .panel-title a.collapsed:after {
+    background: rgba(0, 0, 0, 0) url("../../images/about/plusDark.png") no-repeat scroll 0 0;
+}
+.featuresList li {
+    color: #fff;
+}
+.teamArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.teamArea:after {
+    left: 3px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+#teamCarousel .carousel-indicators li {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+.teamDetails {
+    background: #404040 none repeat scroll 0 0;
+}
+.teamDetails h3 {
+    color: #fff;
+}
+/******************* Blog Grid page **********************/
+.blogGridArea{
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.blogGridArea:after {
+    left: 4px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.metaLeft a {
+    color: #fff;
+}
+.metaLeft span {
+    color: #fff;
+}
+.defaultButton {
+    border: 2px solid #fff;
+    color: #fff;
+}
+/******************* Blog Sidebar page **********************/
+.blogSidebarArea{
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.blogSidebarArea:after {
+    left: 0;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.blogSidbarPost h2 a {
+    color: #fff;
+}
+.blogCategory li span {
+    color: #fff;
+}
+.blogCategory li a {
+    color: #fff;
+}
+.blogCategory li {
+    color: #fff;
+}
+.blogAuthor {
+    color: #fff;
+}
+.blogAuthor a:hover {
+    color: #fff;
+}
+.widgetTitle {
+    color: #fff;
+}
+.sidePostCont > a {
+    color: #fff;
+}
+.widget.tags a {
+    background: #fff none repeat scroll 0 0;
+    color: #404040;
+}
+.blogPostContent {
+    background: #404040 none repeat scroll 0 0;
+}
+.leftPost {
+    background: #404040 none repeat scroll 0 0;
+}
+/******************* Blog Post Page **********************/
+.postPage .blogPostContent h5 {
+    color: #fff;
+}
+.authorDesc {
+    background: #404040 none repeat scroll 0 0;
+}
+.authorDesc h3 {
+    color: #fff;
+}
+.commentsSection > h1 {
+    color: #fff;
+}
+.commentMeta p {
+    color: #fff;
+}
+.commentForm h1 {
+    color: #fff;
+}
+.commentForm form button {
+    border: 2px solid #fff;
+    color: #fff;
+}
+/******************* Blog Sidebar page **********************/
+.contactArea{
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.contactArea:after {
+    left: 6px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.contactForm h1 {
+    color: #fff;
+}
+.contactForm form button {
+    border: 2px solid #fff;
+    color: #fff;
+}
+/******************* Event Page **********************/
+.singleEvents {
+    background: #404040 none repeat scroll 0 0;
+}
+.eventDet h4 a {
+    color: #fff;
+}
+.evMeta p {
+    color: #fff;
+}
+/******************* Event Single **********************/
+.eventSinglePost {
+    background: #404040 none repeat scroll 0 0;
+}
+
+/******************* Folio Page **********************/
+.folioBtn li {
+    background: #fff none repeat scroll 0 0;
+    color: #404040;
+}
+.folioBtn li:hover, .folioBtn li.active {
+    color: #fff;
+}
+.portfolioArea.folioPage:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+
+/******************* Folio Page Two **********************/
+.portfolioDetails {
+    background: #404040 none repeat scroll 0 0;
+}
+.portfolioDetails h3 a {
+    color: #fff;
+}
+.portfolioArea.folioPage2:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+/******************* Blog Sidebar page **********************/
+.folioItemArea{
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.folioItemArea:after {
+    left: 3px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.folioItemContent h2 {
+    color: #fff;
+}
+.folioItem {
+    background: #404040 none repeat scroll 0 0;
+}
+/******************* Home Two **********************/
+.portfolioArea.home2:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+.commonTittle {
+    color: #fff;
+}
+#blogCarousel .carousel-indicators li {
+    background-color: #fff;
+    border: 2px solid #fff;
+}
+.name {
+    color: #fff;
+}
+/******************* Home Three **********************/
+.portfolioArea.home3:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+/******************* Member Page **********************/
+.memberArea{
+    background: #404040;
+}
+.memberDetails h3 {
+    color: #fff;
+}
+.memberMeta li {
+    color: #fff;
+}
+.memberArea:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/dark.png") no-repeat scroll center center;
+
+}
+.colleagueArea {
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.funFactArea.memberPage:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/member.png") no-repeat scroll center center;
+}
+.colleagueArea::after {
+    left: -4px;
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+}
+/******************* New Home **********************/
+.tabsGroupArea{
+    background: #404040 url("../../images/diagonalDark.png") repeat scroll center center;
+}
+.tabsGroupArea:after {
+    background: rgba(0, 0, 0, 0) url("../../images/rectangle/featureDark.png") no-repeat scroll center center;
+    left: -2px;
+}
+.tabsContent {
+    background: #404040 none repeat scroll 0 0;
+}
+.tabNavs li a {
+    color: #fff;
+}
+#testiCarousel .quotation:after,#testiCarousel .quotation:before {
+    color: #fff;
+}
+#testiCarousel .carousel-indicators li {
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    margin: 1px 10px;
+}

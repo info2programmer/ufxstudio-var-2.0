@@ -1,0 +1,117 @@
+/*
+  Theme Name: TopBiz - Responsive Corporate HTML5 Template
+  Theme URL: http://themewar.com/html/topland
+  Author: ThemeWar
+  Author URI: http://www.themewar.com
+  Description: Responsive Corporate HTML5 Template
+  Version: 1.0
+*/
+/*=======================================================================
+[Table of contents]
+=========================================================================
+    i. Font Include
+    ii. Normalization
+    iii. Commmon Content Style
+    iv. Margin and Padding Set
+
+==========================================================================*/
+/* Font Include */
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700,900);
+@import url(http://fonts.googleapis.com/css?family=Coustard:400,900);
+
+/* Normalization */
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    background: #fff;
+    font-size: 13px;
+}  
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #404040;
+}
+p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #979797;
+    line-height: 1.625;
+    font-weight: 300;
+    margin: 0;
+}
+ul,ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a, a:hover,a:focus{
+    display: inline-block;
+    outline: none;
+    text-decoration: none;
+}
+a:focus{
+    color: #de3c2f;
+}
+a{
+    -webkit-transition: all 700ms ease;
+    -moz-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+    transition: all 700ms ease;
+}
+/************** Commmon Content Style ********************/
+.commonSection{
+    padding: 100px 0 118px;
+    position: relative;
+    background: #FFF;
+}
+.firstHome {
+    margin-top: 0px;
+}
+
+@media (max-width: 999px)
+{
+    .firstHome {
+    margin-top: 200px;
+}
+
+}
+
+
+img{
+    width: 100%;
+    height: auto;
+}
+.commonTittle{
+    font-size: 50px;
+    text-transform: capitalize;
+    padding-bottom: 13px;
+}
+.commonTittle span{
+    font-weight: 300;
+    text-transform: capitalize;
+    display: inline-block;
+    padding-left: 8px;
+}
+.commonTittle.white{
+    color: #fff;
+}
+.subTittle{
+    font-size: 20px;
+    line-height: 0.9;
+    margin-bottom: 55px;
+}
+
+/**************** Margin and Padding Set ***********************/
+.noMarginLeft{
+    margin-left: 0px !important;
+}
+.noPadding{
+    padding: 0 !important;
+}
+.noMarginRight{
+    margin-right: 0 !important;
+}
